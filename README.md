@@ -11,4 +11,5 @@
 - test 12 update custom img with env var > same
 - test 13 added libicu and dockerio > same, no change
 - test 14 disable cache > ?
-- test 15 updated image again > 
+- test 15 updated image again > same ..
+- test 16 new ubuntu version >
