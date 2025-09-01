@@ -6,4 +6,5 @@
 - test 7 update fleet with increase capacity / new machinery > codebuild says completed, but GH says stuck
 - tes 8 updated docker image with new dep per logs > same as above
 - test 9 added priv. mode to build env. > same
-- test 10 removed custom image again > pending
+- test 10 removed custom image again > success
+- test 11 added custom image again >
