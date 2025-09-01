@@ -1,3 +1,2 @@
 ### HELLO WORLD
-this is a test
-hello
+test 3? added priv. mode to build proj settings
