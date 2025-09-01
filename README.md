@@ -7,4 +7,5 @@
 - tes 8 updated docker image with new dep per logs > same as above
 - test 9 added priv. mode to build env. > same
 - test 10 removed custom image again > success
-- test 11 added custom image again >
+- test 11 added custom image again > same as 9 8 7
+- test 12 update custom img with env var > pending
