@@ -8,4 +8,5 @@
 - test 9 added priv. mode to build env. > same
 - test 10 removed custom image again > success
 - test 11 added custom image again > same as 9 8 7
-- test 12 update custom img with env var > pending
+- test 12 update custom img with env var > same
+- test 13 added libicu and dockerio > 
