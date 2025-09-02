@@ -13,3 +13,4 @@
 - test 14 disable cache > ?
 - test 15 updated image again > same ..
 - test 16 new ubuntu version >
+- test 17 updated docker installation cmds to dockerfile
