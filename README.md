@@ -16,3 +16,4 @@
 - test 17 updated docker installation cmds to dockerfile
 - test 18 changd to on demand
 - test 19 updated docker installation cmds to match cb managed image
+- t20 updated dockerfile again
