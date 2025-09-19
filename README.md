@@ -18,3 +18,4 @@
 - test 19 updated docker installation cmds to match cb managed image
 - t20 updated dockerfile again
 - t21 added new deps to dockerfile + downgraded ubuntu version to closer align with cx
+- t22 added env var to github ci
