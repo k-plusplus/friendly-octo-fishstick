@@ -8,4 +8,5 @@ jobs:
       - codebuild-gh-runner-test-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
       - run: echo "Hello World"
+      - run: ls -tlrR /usr/local/lib /usr/local/lib/docker /usr/local/lib/docker/cli-plugins/docker-buildx /usr/local/bin/docker-buildx
       - run: docker buildx version
