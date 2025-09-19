@@ -19,3 +19,4 @@
 - t20 updated dockerfile again
 - t21 added new deps to dockerfile + downgraded ubuntu version to closer align with cx
 - t22 added env var to github ci
+- t23 added libicu to docker
