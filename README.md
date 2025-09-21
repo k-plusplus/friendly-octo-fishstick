@@ -36,3 +36,4 @@
 - t9 added user
 - t10 added podman and buildah
 - t11 modified runc installation
+- t12 remove dockerio
