@@ -30,3 +30,4 @@
 - t4 - sanity check > switching back to working image (latest tag)
 - t5 - switched back to test-v1 tag and added entrypoint back, but removed docker-compose installation | running on reserved capacity fleet
 - t5 - created new fleet
+- t6 - new fleet works w/ docker compose not installed, now removing start sh 
