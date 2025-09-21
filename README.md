@@ -28,3 +28,4 @@
 - t2 - on demand build first -> works
 - t3 - back on resrvd cap fleet...
 - t4 - sanity check > switching back to working image (latest tag)
+- t5 - switched back to test-v1 tag and added entrypoint back, but removed docker-compose installation | running on reserved capacity fleet
