@@ -27,3 +27,4 @@
 - test 1 - remove entrypoint to start docker daemon (test 1.1 adding platform to build cmd)
 - t2 - on demand build first -> works
 - t3 - back on resrvd cap fleet...
+- t4 - sanity check > switching back to working image (latest tag)
