@@ -24,4 +24,4 @@
 - testing on fleet now
 - works! huzzah! working dockerfile is committed to "docker-fleet" folder in local machine..
 - begin testing on aligning working with cx now...
-- test 1 - remove entrypoint to start docker daemon
+- test 1 - remove entrypoint to start docker daemon (test 1.1 adding platform to build cmd) 
