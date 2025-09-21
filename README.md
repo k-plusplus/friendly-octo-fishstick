@@ -35,3 +35,4 @@
 - t8 - removed DnD
 - t9 added user
 - t10 added podman and buildah
+- t11 modified runc installation
