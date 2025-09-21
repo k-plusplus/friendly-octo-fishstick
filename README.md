@@ -33,3 +33,4 @@
 - t6 - new fleet works w/ docker compose not installed, now removing start sh
 - t7 - rotated fleet to bigger medium
 - t8 - removed DnD
+- t9 added user 
