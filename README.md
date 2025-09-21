@@ -21,4 +21,7 @@
 - t22 added env var to github ci
 - t23 added libicu to docker
 - t24 libicu finally fixed..
-- testing on fleet now 
+- testing on fleet now
+- works! huzzah! working dockerfile is committed to "docker-fleet" folder in local machine..
+- begin testing on aligning working with cx now...
+- test 1 - remove entrypoint to start docker daemon
