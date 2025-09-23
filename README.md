@@ -37,3 +37,4 @@
 - t10 added podman and buildah
 - t11 modified runc installation
 - t12 remove dockerio
+- t13 align with cx dockerfile as dockerfile.alt
