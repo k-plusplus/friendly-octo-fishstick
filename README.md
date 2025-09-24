@@ -38,4 +38,5 @@
 - t11 modified runc installation
 - t12 remove dockerio
 - t13 align with cx dockerfile as dockerfile.alt
-- t14 remove python3 pip install of awscli 
+- t14 remove python3 pip install of awscli
+- t15 comment out buildx
