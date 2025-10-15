@@ -42,3 +42,4 @@
 - t15 comment out buildx
 
   new test
+  - new fleet and proj in us-west-2
