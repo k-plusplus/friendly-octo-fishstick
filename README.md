@@ -43,3 +43,4 @@
 
   new test
   - new fleet and proj in us-west-2
+  - waiting on capacity
